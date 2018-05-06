@@ -1,5 +1,6 @@
 # makey
 random password or key generator
+
 INSTALLATION >
 
   sudo chmod +x install.sh
