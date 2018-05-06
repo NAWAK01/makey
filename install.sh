@@ -1,0 +1,3 @@
+echo creating command makey...
+cp makey /bin/makey
+echo success !
